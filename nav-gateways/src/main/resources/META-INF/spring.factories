@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.reputation.nav.gateways.config.GatewaysConfiguration
