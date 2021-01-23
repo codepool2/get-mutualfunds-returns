@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -17,6 +18,9 @@ import java.util.List;
 
 @SpringBootApplication
 public class App implements CommandLineRunner {
+
+    @Autowired
+    ConfigurableApplicationContext configurableApplicationContext;
 
     @Autowired
     private IGetReturnsService getReturnsServiceImpl;
@@ -47,6 +51,9 @@ public class App implements CommandLineRunner {
         byte[] strToBytes = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(returnTableList).getBytes();
 
         outputStream.write(strToBytes);
+
+
+        SpringApplication.exit(configurableApplicationContext, ()->0);
 
 
     }
