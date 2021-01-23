@@ -1,0 +1,428 @@
+[ {
+  "month" : "Jan-16",
+  "returns" : "18.0%",
+  "calculation" : {
+    "startNav" : "23-Jan-13",
+    "endNav" : "23-Jan-16"
+  }
+}, {
+  "month" : "Feb-16",
+  "returns" : "17.0%",
+  "calculation" : {
+    "startNav" : "23-Feb-13",
+    "endNav" : "23-Feb-16"
+  }
+}, {
+  "month" : "Mar-16",
+  "returns" : "21.0%",
+  "calculation" : {
+    "startNav" : "23-Mar-13",
+    "endNav" : "23-Mar-16"
+  }
+}, {
+  "month" : "Apr-16",
+  "returns" : "21.0%",
+  "calculation" : {
+    "startNav" : "23-Apr-13",
+    "endNav" : "23-Apr-16"
+  }
+}, {
+  "month" : "May-16",
+  "returns" : "19.0%",
+  "calculation" : {
+    "startNav" : "23-May-13",
+    "endNav" : "23-May-16"
+  }
+}, {
+  "month" : "Jun-16",
+  "returns" : "22.0%",
+  "calculation" : {
+    "startNav" : "23-Jun-13",
+    "endNav" : "23-Jun-16"
+  }
+}, {
+  "month" : "Jul-16",
+  "returns" : "22.0%",
+  "calculation" : {
+    "startNav" : "23-Jul-13",
+    "endNav" : "23-Jul-16"
+  }
+}, {
+  "month" : "Aug-16",
+  "returns" : "25.0%",
+  "calculation" : {
+    "startNav" : "23-Aug-13",
+    "endNav" : "23-Aug-16"
+  }
+}, {
+  "month" : "Sep-16",
+  "returns" : "25.0%",
+  "calculation" : {
+    "startNav" : "23-Sep-13",
+    "endNav" : "23-Sep-16"
+  }
+}, {
+  "month" : "Oct-16",
+  "returns" : "24.0%",
+  "calculation" : {
+    "startNav" : "23-Oct-13",
+    "endNav" : "23-Oct-16"
+  }
+}, {
+  "month" : "Nov-16",
+  "returns" : "20.0%",
+  "calculation" : {
+    "startNav" : "23-Nov-13",
+    "endNav" : "23-Nov-16"
+  }
+}, {
+  "month" : "Dec-16",
+  "returns" : "17.0%",
+  "calculation" : {
+    "startNav" : "23-Dec-13",
+    "endNav" : "23-Dec-16"
+  }
+}, {
+  "month" : "Jan-17",
+  "returns" : "18.0%",
+  "calculation" : {
+    "startNav" : "23-Jan-14",
+    "endNav" : "23-Jan-17"
+  }
+}, {
+  "month" : "Feb-17",
+  "returns" : "20.0%",
+  "calculation" : {
+    "startNav" : "23-Feb-14",
+    "endNav" : "23-Feb-17"
+  }
+}, {
+  "month" : "Mar-17",
+  "returns" : "19.0%",
+  "calculation" : {
+    "startNav" : "23-Mar-14",
+    "endNav" : "23-Mar-17"
+  }
+}, {
+  "month" : "Apr-17",
+  "returns" : "18.0%",
+  "calculation" : {
+    "startNav" : "23-Apr-14",
+    "endNav" : "23-Apr-17"
+  }
+}, {
+  "month" : "May-17",
+  "returns" : "15.0%",
+  "calculation" : {
+    "startNav" : "23-May-14",
+    "endNav" : "23-May-17"
+  }
+}, {
+  "month" : "Jun-17",
+  "returns" : "16.0%",
+  "calculation" : {
+    "startNav" : "23-Jun-14",
+    "endNav" : "23-Jun-17"
+  }
+}, {
+  "month" : "Jul-17",
+  "returns" : "15.0%",
+  "calculation" : {
+    "startNav" : "23-Jul-14",
+    "endNav" : "23-Jul-17"
+  }
+}, {
+  "month" : "Aug-17",
+  "returns" : "14.0%",
+  "calculation" : {
+    "startNav" : "23-Aug-14",
+    "endNav" : "23-Aug-17"
+  }
+}, {
+  "month" : "Sep-17",
+  "returns" : "13.0%",
+  "calculation" : {
+    "startNav" : "23-Sep-14",
+    "endNav" : "23-Sep-17"
+  }
+}, {
+  "month" : "Oct-17",
+  "returns" : "14.0%",
+  "calculation" : {
+    "startNav" : "23-Oct-14",
+    "endNav" : "23-Oct-17"
+  }
+}, {
+  "month" : "Nov-17",
+  "returns" : "13.0%",
+  "calculation" : {
+    "startNav" : "23-Nov-14",
+    "endNav" : "23-Nov-17"
+  }
+}, {
+  "month" : "Dec-17",
+  "returns" : "14.0%",
+  "calculation" : {
+    "startNav" : "23-Dec-14",
+    "endNav" : "23-Dec-17"
+  }
+}, {
+  "month" : "Jan-18",
+  "returns" : "12.0%",
+  "calculation" : {
+    "startNav" : "23-Jan-15",
+    "endNav" : "23-Jan-18"
+  }
+}, {
+  "month" : "Feb-18",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-Feb-15",
+    "endNav" : "23-Feb-18"
+  }
+}, {
+  "month" : "Mar-18",
+  "returns" : "9.0%",
+  "calculation" : {
+    "startNav" : "23-Mar-15",
+    "endNav" : "23-Mar-18"
+  }
+}, {
+  "month" : "Apr-18",
+  "returns" : "11.0%",
+  "calculation" : {
+    "startNav" : "23-Apr-15",
+    "endNav" : "23-Apr-18"
+  }
+}, {
+  "month" : "May-18",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-May-15",
+    "endNav" : "23-May-18"
+  }
+}, {
+  "month" : "Jun-18",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-Jun-15",
+    "endNav" : "23-Jun-18"
+  }
+}, {
+  "month" : "Jul-18",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-Jul-15",
+    "endNav" : "23-Jul-18"
+  }
+}, {
+  "month" : "Aug-18",
+  "returns" : "13.0%",
+  "calculation" : {
+    "startNav" : "23-Aug-15",
+    "endNav" : "23-Aug-18"
+  }
+}, {
+  "month" : "Sep-18",
+  "returns" : "11.0%",
+  "calculation" : {
+    "startNav" : "23-Sep-15",
+    "endNav" : "23-Sep-18"
+  }
+}, {
+  "month" : "Oct-18",
+  "returns" : "8.0%",
+  "calculation" : {
+    "startNav" : "23-Oct-15",
+    "endNav" : "23-Oct-18"
+  }
+}, {
+  "month" : "Nov-18",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-Nov-15",
+    "endNav" : "23-Nov-18"
+  }
+}, {
+  "month" : "Dec-18",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-Dec-15",
+    "endNav" : "23-Dec-18"
+  }
+}, {
+  "month" : "Jan-19",
+  "returns" : "12.0%",
+  "calculation" : {
+    "startNav" : "23-Jan-16",
+    "endNav" : "23-Jan-19"
+  }
+}, {
+  "month" : "Feb-19",
+  "returns" : "13.0%",
+  "calculation" : {
+    "startNav" : "23-Feb-16",
+    "endNav" : "23-Feb-19"
+  }
+}, {
+  "month" : "Mar-19",
+  "returns" : "12.0%",
+  "calculation" : {
+    "startNav" : "23-Mar-16",
+    "endNav" : "23-Mar-19"
+  }
+}, {
+  "month" : "Apr-19",
+  "returns" : "12.0%",
+  "calculation" : {
+    "startNav" : "23-Apr-16",
+    "endNav" : "23-Apr-19"
+  }
+}, {
+  "month" : "May-19",
+  "returns" : "13.0%",
+  "calculation" : {
+    "startNav" : "23-May-16",
+    "endNav" : "23-May-19"
+  }
+}, {
+  "month" : "Jun-19",
+  "returns" : "12.0%",
+  "calculation" : {
+    "startNav" : "23-Jun-16",
+    "endNav" : "23-Jun-19"
+  }
+}, {
+  "month" : "Jul-19",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-Jul-16",
+    "endNav" : "23-Jul-19"
+  }
+}, {
+  "month" : "Aug-19",
+  "returns" : "9.0%",
+  "calculation" : {
+    "startNav" : "23-Aug-16",
+    "endNav" : "23-Aug-19"
+  }
+}, {
+  "month" : "Sep-19",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-Sep-16",
+    "endNav" : "23-Sep-19"
+  }
+}, {
+  "month" : "Oct-19",
+  "returns" : "10.0%",
+  "calculation" : {
+    "startNav" : "23-Oct-16",
+    "endNav" : "23-Oct-19"
+  }
+}, {
+  "month" : "Nov-19",
+  "returns" : "13.0%",
+  "calculation" : {
+    "startNav" : "23-Nov-16",
+    "endNav" : "23-Nov-19"
+  }
+}, {
+  "month" : "Dec-19",
+  "returns" : "14.0%",
+  "calculation" : {
+    "startNav" : "23-Dec-16",
+    "endNav" : "23-Dec-19"
+  }
+}, {
+  "month" : "Jan-20",
+  "returns" : "13.0%",
+  "calculation" : {
+    "startNav" : "23-Jan-17",
+    "endNav" : "23-Jan-20"
+  }
+}, {
+  "month" : "Feb-20",
+  "returns" : "12.0%",
+  "calculation" : {
+    "startNav" : "23-Feb-17",
+    "endNav" : "23-Feb-20"
+  }
+}, {
+  "month" : "Mar-20",
+  "returns" : "1.0%",
+  "calculation" : {
+    "startNav" : "23-Mar-17",
+    "endNav" : "23-Mar-20"
+  }
+}, {
+  "month" : "Apr-20",
+  "returns" : "5.0%",
+  "calculation" : {
+    "startNav" : "23-Apr-17",
+    "endNav" : "23-Apr-20"
+  }
+}, {
+  "month" : "May-20",
+  "returns" : "4.0%",
+  "calculation" : {
+    "startNav" : "23-May-17",
+    "endNav" : "23-May-20"
+  }
+}, {
+  "month" : "Jun-20",
+  "returns" : "6.0%",
+  "calculation" : {
+    "startNav" : "23-Jun-17",
+    "endNav" : "23-Jun-20"
+  }
+}, {
+  "month" : "Jul-20",
+  "returns" : "6.0%",
+  "calculation" : {
+    "startNav" : "23-Jul-17",
+    "endNav" : "23-Jul-20"
+  }
+}, {
+  "month" : "Aug-20",
+  "returns" : "7.0%",
+  "calculation" : {
+    "startNav" : "23-Aug-17",
+    "endNav" : "23-Aug-20"
+  }
+}, {
+  "month" : "Sep-20",
+  "returns" : "6.0%",
+  "calculation" : {
+    "startNav" : "23-Sep-17",
+    "endNav" : "23-Sep-20"
+  }
+}, {
+  "month" : "Oct-20",
+  "returns" : "6.0%",
+  "calculation" : {
+    "startNav" : "23-Oct-17",
+    "endNav" : "23-Oct-20"
+  }
+}, {
+  "month" : "Nov-20",
+  "returns" : "8.0%",
+  "calculation" : {
+    "startNav" : "23-Nov-17",
+    "endNav" : "23-Nov-20"
+  }
+}, {
+  "month" : "Dec-20",
+  "returns" : "8.0%",
+  "calculation" : {
+    "startNav" : "23-Dec-17",
+    "endNav" : "23-Dec-20"
+  }
+}, {
+  "month" : "Jan-21",
+  "returns" : "9.0%",
+  "calculation" : {
+    "startNav" : "23-Jan-18",
+    "endNav" : "23-Jan-21"
+  }
+} ]
