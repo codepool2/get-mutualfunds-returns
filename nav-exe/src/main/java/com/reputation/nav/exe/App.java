@@ -27,7 +27,7 @@ public class App implements CommandLineRunner {
     @Value("${horizon}")
     private int horizon;
 
-    @Value("${schemeCode: 154655}")
+    @Value("${schemeCode: 102885}")
     private int schemeCode;
 
     public static void main(String[] args) {
